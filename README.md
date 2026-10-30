@@ -248,17 +248,6 @@ The One-vs-One strategy significantly outperforms One-vs-All on this dataset. Th
 
 ---
 
-## Exercises
-
-The complete lab notebook includes the following exercises with solutions:
-
-1. **Test Size Experimentation:** Vary the train-test split ratio (0.1, 0.3) and observe performance impact.
-
-2. **Feature Importance Visualization:** Plot bar charts showing feature importance based on model coefficients for both OvA and OvO strategies.
-
-3. **Pipeline Automation:** Implement a function to automate the entire workflow from data loading to model evaluation.
-
----
 
 ## License
 
